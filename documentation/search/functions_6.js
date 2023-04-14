@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['perform_0',['perform',['../classfbgsense_1_1filtering_1_1filter__fft.html#ab8c692fe5e5117ae09bf9bc42c992f28',1,'fbgsense::filtering::filter_fft::perform()'],['../classfbgsense_1_1filtering_1_1filter__savgol.html#aecc68835f99f09fa78e07431285c90bd',1,'fbgsense::filtering::filter_savgol::perform()'],['../classspectrum.html#ac952de7f66589ee77e00ffe9df55b5b1',1,'spectrum::perform(channel_t channel, std::initializer_list&lt; parameter_t &gt; filteringParams, std::initializer_list&lt; parameter_t &gt; detectionParams, std::initializer_list&lt; parameter_t &gt; segmentationParams, fit_settings_t fitSettings)'],['../classspectrum.html#a3e51dfe211600d018f1a572b2af49fcd',1,'spectrum::perform(std::initializer_list&lt; parameter_t &gt; filteringParams, std::initializer_list&lt; parameter_t &gt; detectionParams, std::initializer_list&lt; parameter_t &gt; segmentationParams, fit_settings_t fitSettings)']]],
+  ['print_1',['print',['../classspectrum.html#a93ee9eea949db687a8d7ea216c110e8b',1,'spectrum']]]
+];

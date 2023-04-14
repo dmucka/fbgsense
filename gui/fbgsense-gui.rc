@@ -1,0 +1,7 @@
+// DPI awareness
+#include <wx/msw/wx.rc>
+
+VS_VERSION_INFO VERSIONINFO 
+FILEVERSION 1,0,0,0
+BEGIN
+END

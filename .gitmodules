@@ -1,0 +1,13 @@
+[submodule "vcpkg"]
+	path = vcpkg
+	url = https://github.com/JackBoosY/vcpkg.git
+	branch = dev/jack/17072
+[submodule "cpp-terminal"]
+	path = cpp-terminal
+	url = https://github.com/jupyter-xeus/cpp-terminal.git
+[submodule "gsl-curve-fit"]
+	path = gsl-curve-fit
+	url = https://github.com/Eleobert/gsl-curve-fit.git
+[submodule "openGLPlotLive"]
+	path = openGLPlotLive
+	url = https://github.com/dady8889/openGLPlotLive.git
